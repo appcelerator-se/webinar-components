@@ -1,0 +1,12 @@
+
+<!-- 
+Appcelerator Components Library
+TextField
+
+Provides a standard view and behavior for textFields in the application that can be inherited throughout
+the appcelerator components	
+-->
+
+<Alloy autoStyle="true">
+	<TextField id="textField" class="container"/>
+</Alloy>

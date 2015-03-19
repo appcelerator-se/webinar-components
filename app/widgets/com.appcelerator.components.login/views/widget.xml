@@ -1,0 +1,13 @@
+<Alloy>
+	<Window id="login" class="container">
+		<Label top="30%" class="padding-left">Login Form</Label>
+		<View class="form">
+			<Widget src="com.appcelerator.components" name="textfield" id="username" icon="icon-user"/>
+			<Widget src="com.appcelerator.components" name="textfield" classes="password" icon="icon-lock" id="password"/>
+			<View layout="horizontal" class="button-bar">
+				<Widget src="com.appcelerator.components" name="button" title="Cancel" classes="cancel"/>
+				<Widget src="com.appcelerator.components" name="button" title="Sign In" classes="padding-left" />  
+			</View>
+		</View>
+	</Window>
+</Alloy>

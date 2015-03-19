@@ -1,0 +1,5 @@
+<Alloy>
+	
+	<Widget src="com.appcelerator.components.login" id="login" />
+	
+</Alloy>

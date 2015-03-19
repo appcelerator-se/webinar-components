@@ -1,0 +1,16 @@
+
+".container" : {
+  top: 15,
+  width: "30%",
+  height: 45,
+  color: "white",
+  backgroundColor: "#66F",
+  borderRadius: 5
+}
+
+".cancel":{
+	backgroundColor: "#e7e7e7",
+	color: "#333"
+}
+
+

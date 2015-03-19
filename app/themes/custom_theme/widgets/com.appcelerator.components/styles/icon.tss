@@ -1,0 +1,33 @@
+
+".icon":{
+	font:{
+		fontFamily: "icomoon",
+		fontSize: 24,
+	},
+	color: "#CCC",
+	left: 5
+}
+
+".icon-small" :{
+	font:{
+		fontSize: 14
+	}
+}
+
+".icon-lg":{
+	font:{
+		fontSize: 48
+	}	
+}
+
+".icon-user" : {
+	text: "\ue971",
+}
+
+".icon-lock":{
+	text: "\ue98f"
+}
+
+/**
+ * 	Additional Fonts can be found at icomoon.io!
+ */

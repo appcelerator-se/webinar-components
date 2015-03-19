@@ -1,0 +1,16 @@
+
+".padding-left" :{
+	left: "10%"
+}
+
+".padding-right" :{
+	right: "10%"
+}
+
+".padding-top" : {
+	top:"10%"	
+}
+
+".padding-bottom" : {
+	bottom: "10%"
+}
