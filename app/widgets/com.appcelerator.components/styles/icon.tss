@@ -17,7 +17,7 @@
 ".icon-lg":{
 	font:{
 		fontSize: 48
-	}	
+	}
 }
 
 ".icon-user" : {

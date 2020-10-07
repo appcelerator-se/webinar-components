@@ -1,19 +1,24 @@
-
 ".container" : {
-  top:15, 
-  backgroundColor: "#e7e7e7",
-  width: "80%",
-  height: 45,
-  borderRadius: 5,
-  paddingLeft: 15,
-  paddingRight: 15
+	width: Ti.UI.FILL,
+	height: 45,
+	backgroundColor: "#e7e7e7",
+	color: "#000",
+	borderRadius: 5,
+	padding: {
+		left: 15,
+		right: 15
+	}
 }
-
 ".password" : {
 	passwordMask: true
 }
-
-".iconic" :{
-	paddingLeft: 40
+".iconic" : {
+	padding: {
+		left: 80
+	}
 }
-
+"#view_container" : {
+	top: 15,
+	width: "80%",
+	height: 45
+}
