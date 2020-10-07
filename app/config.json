@@ -1,14 +1,12 @@
 {
     "global": {
-   		
+
     },
     "env:development": {},
     "env:test": {},
     "env:production": {},
     "os:android": {},
-    "os:blackberry": {},
     "os:ios": {},
-    "os:mobileweb": {},
     "dependencies": {
         "com.appcelerator.components": "1.0",
         "com.appcelerator.components.login": "1.0"
